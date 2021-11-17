@@ -1,0 +1,930 @@
+department;municipality;postal_code;neighbourhood
+Managua;Managua;10000;Master code
+Managua;Managua;11001;Centro Histórico Cultural
+Managua;Managua;11002;Rubén Darío - Candelaria
+Managua;Managua;11002;Candelaria
+Managua;Managua;11003;Los Pescadores
+Managua;Managua;11003;Carlos Reina
+Managua;Managua;11004;Quinta Nina
+Managua;Managua;11004;Benedicto Valverde
+Managua;Managua;11005;San Luis Norte
+Managua;Managua;11005;Hilario Sánchez 1
+Managua;Managua;11006;Barricada
+Managua;Managua;11006;Hilario Sánchez 2
+Managua;Managua;11007;Las Torres
+Managua;Managua;11008;Villa Pedro Joaquín Chamorro
+Managua;Managua;11009;Riguero Norte
+Managua;Managua;11011;Domitila Lugo
+Managua;Managua;11012;Jardines De Santa Clara
+Managua;Managua;11013;Shelim Shible
+Managua;Managua;11014;Santa Lucia
+Managua;Managua;11015;Sector Oeste Portezuelo
+Managua;Managua;11016;Portezuelo Parque Industrial
+Managua;Managua;11017;Sector Este Portezuelo
+Managua;Managua;11018;La Primavera
+Managua;Managua;11019;Anexo La Primavera
+Managua;Managua;11021;Vallarta
+Managua;Managua;11022;Sector Este Vallarta
+Managua;Managua;11023;Sector Este La Primavera
+Managua;Managua;11024;Jose Dolores Estrada
+Managua;Managua;11025;Sector Corte Suprema De Justicia
+Managua;Managua;11026;Jorge Cassaly
+Managua;Managua;11027;Waspán Norte
+Managua;Managua;11028;Sector Norte De Waspán Norte
+Managua;Managua;11029;Santa Maria De Las Victorias
+Managua;Managua;11031;Hugo Chávez
+Managua;Managua;11032;Camilo Chamorro
+Managua;Managua;11033;Sector Noreste Camilo Chamorro
+Managua;Managua;11034;Oscar Lino Paz Cubas
+Managua;Managua;11035;Bertha Díaz
+Managua;Managua;11036;Sector Oeste Américas 2
+Managua;Managua;11037;B15
+Managua;Managua;11037;Carlos Núñez
+Managua;Managua;11037;Anexo Américas 2
+Managua;Managua;11038;Jose Benito Escobar
+Managua;Managua;11038;Américas 2
+Managua;Managua;11039;Las Mercedes
+Managua;Managua;11041;Anexo 1 Unidad De Propósito
+Managua;Managua;11042;Unidad De Propósito
+Managua;Managua;11043;German Pomares Américas 2
+Managua;Managua;11044;Anexo 2 Unidad De Propósito
+Managua;Managua;11045;Colinas De Verona
+Managua;Managua;11046;Las Delicias
+Managua;Managua;11047;Sector Este América 2
+Managua;Managua;11048;Casa Real Etapa 1
+Managua;Managua;11049;Casa Real Etapa 2
+Managua;Managua;11051;Casa Real Etapa 3
+Managua;Managua;11052;Sector Hotel Camino Real
+Managua;Managua;11053;Sector Sur Montecristi
+Managua;Managua;11054;Escuela Quemada
+Managua;Managua;11055;Montecristi
+Managua;Managua;11056;Sector Norte Montecristi
+Managua;Managua;11057;Sector Norte Aeropuerto Internacional De Managua
+Managua;Managua;11058;15 De Mayo Una
+Managua;Managua;11059;Sector Hotel Las Mercedes
+Managua;Managua;11061;El Rodeito
+Managua;Managua;11062;El Rodeo
+Managua;Managua;11063;Sector Rio Santa Elena
+Managua;Managua;11064;Santa Elena
+Managua;Managua;11065;Monte Fresco
+Managua;Managua;11066;Sector Rio Borbollón
+Managua;Managua;11067;Sector Rio Lodoso
+Managua;Managua;11068;Sector Este Zona Franca Industrial
+Managua;Managua;11069;Alexis Arguello
+Managua;Managua;11071;Sector Zona Franca Industrial
+Managua;Managua;11072;Sector Aeropuerto Internacional De Managua
+Managua;Managua;11073;Sector La Subasta
+Managua;Managua;11074;Jorge Salazar
+Managua;Managua;11075;Reparto Segovia
+Managua;Managua;11076;Sector Mercado Mayoreo
+Managua;Managua;11076;Concepción De Maria
+Managua;Managua;11077;Canadá Sureste
+Managua;Managua;11078;Palestina
+Managua;Managua;11079;Villa Israel
+Managua;Managua;11081;Villa Reconciliación
+Managua;Managua;11082;Sector La Kativo
+Managua;Managua;11083;Sector Este Waspán Sur
+Managua;Managua;11084;Waspan Sur
+Managua;Managua;11085;Anexo Waspán Sur
+Managua;Managua;11086;Villa Miguel Gutiérrez
+Managua;Managua;11087;Oswaldo Manzanares
+Managua;Managua;11088;Mombacho
+Managua;Managua;11089;Sector Norte Ciudad Industrial Xolotlán
+Managua;Managua;11091;Ciudad Xolotlán
+Managua;Managua;11092;Carlos Marx
+Managua;Managua;11093;Pedro Arauz Palacios
+Managua;Managua;11094;Nuevo Horizonte
+Managua;Managua;11095;Santa Rosa
+Managua;Managua;11096;Costa Rica
+Managua;Managua;11097;San Luis Sur
+Managua;Managua;11098;Leonel Rugama
+Managua;Managua;11099;Los Angeles
+Managua;Managua;11101;Sector Mercado Oriental
+Managua;Managua;11102;Santo Domingo
+Managua;Managua;11103;Sector Sur Centro Histórico
+Managua;Managua;11104;Sector Gobierno
+Managua;Managua;11105;Blas Real Espinales
+Managua;Managua;11106;Sajonia
+Managua;Managua;11107;Buenos Aires
+Managua;Managua;11107;19 De Julio
+Managua;Managua;11108;Ciudad Jardín
+Managua;Managua;11109;Romin Manrique
+Managua;Managua;11111;Tenderí
+Managua;Managua;11112;El Paraisito
+Managua;Managua;11113;Larreynaga
+Managua;Managua;11114;Colonia Edgard Lang
+Managua;Managua;11115;Hogar Propio
+Managua;Managua;11116;Francisco Meza Rojas
+Managua;Managua;11117;Largaespada
+Managua;Managua;11118;Loma De Tiscapa
+Managua;Managua;11119;Colonia Oscar Perez Cassar
+Managua;Managua;11121;Sector Laguna De Tiscapa
+Managua;Managua;11122;Sector Sur Laguna Tiscapa
+Managua;Managua;11123;La Florida
+Managua;Managua;11124;Villa Tiscapa
+Managua;Managua;11125;Sector La Piñata
+Managua;Managua;11126;Sector Oeste Avenida Universitaria
+Managua;Managua;11127;Sector Noroeste Rotonda Rubén Darío
+Managua;Managua;11128;Reparto Walter Ferretí
+Managua;Managua;11129;Sector Catedral Metropolitana
+Managua;Managua;11131;Reparto Serrano
+Managua;Managua;11132;Jorge Dimitrov
+Managua;Managua;11133;Enrique Schmitd Rotonda de Cristo
+Managua;Managua;11134;Oscar Turcios Rotonda de Cristo
+Managua;Managua;11135;Colonia Managua
+Managua;Managua;11136;Campo Bruce
+Managua;Managua;11137;San Jose Oriental
+Managua;Managua;11138;San Cristóbal
+Managua;Managua;11139;Maria Auxiliadora
+Managua;Managua;11141;El Edén
+Managua;Managua;11142;Cristian Perez
+Managua;Managua;11142;Salvadorita
+Managua;Managua;11143;Maestro Gabriel
+Managua;Managua;11144;Bello Horizonte Etapa 1
+Managua;Managua;11145;Bello Horizonte Etapa 2
+Managua;Managua;11146;Bello Horizonte Etapa 3
+Managua;Managua;11147;Bello Horizonte Etapa 4
+Managua;Managua;11148;Bello Horizonte Etapa 5
+Managua;Managua;11149;Bello Horizonte Etapa 6
+Managua;Managua;11151;Nueva Libia
+Managua;Managua;11152;Villa Progreso
+Managua;Managua;11153;Villa Rubén Darío
+Managua;Managua;11154;Rafaela Herrera
+Managua;Managua;11155;Mártires De Ayapal
+Managua;Managua;11156;Villa San Jacinto
+Managua;Managua;11157;Laureano Mairena
+Managua;Managua;11158;Villa Fraternidad
+Managua;Managua;11159;Anexo Villa Fraternidad
+Managua;Managua;11161;Villa Japón
+Managua;Managua;11162;9 De Junio
+Managua;Managua;11163;Anexo Georgino Andrade
+Managua;Managua;11164;Georgino Andrade
+Managua;Managua;11165;Barrio Primero De Mayo
+Managua;Managua;11166;Barrio Venezuela
+Managua;Managua;11167;Ducuali
+Managua;Managua;11168;Paula Corea
+Managua;Managua;11169;El Dorado
+Managua;Managua;11171;10 De Junio
+Managua;Managua;11172;Reparto Colombia
+Managua;Managua;11173;Don Bosco
+Managua;Managua;11174;Santa Margarita
+Managua;Managua;11175;Santa Julia
+Managua;Managua;11176;Farabundo Martí
+Managua;Managua;11177;Francisco Aguilar
+Managua;Managua;11178;Habana 2 Maria
+Managua;Managua;11179;Colonia Nicarao
+Managua;Managua;11181;Carlos Aguirre
+Managua;Managua;11182;Unión Soviética
+Managua;Managua;11183;Rubenia
+Managua;Managua;11184;Villa Austria
+Managua;Managua;11185;Américas 1
+Managua;Managua;11186;Villa Bulgaria
+Managua;Managua;11187;Mercado Ivan Montenegro
+Managua;Managua;11187;8 De Marzo
+Managua;Managua;11188;Villa Revolución
+Managua;Managua;11188;Américas 3
+Managua;Managua;11189;10 De Enero
+Managua;Managua;11191;Reparto Lopez
+Managua;Managua;11192;Jericob
+Managua;Managua;11193;Villa Feliz
+Managua;Managua;11194;Sector Sur Villa Reconciliación
+Managua;Managua;11195;19 De Febrero
+Managua;Managua;11196;Betancur
+Managua;Managua;11197;Sector Norte Laureles Norte
+Managua;Managua;11198;Laureles Norte
+Managua;Managua;11199;Sector Sur 1 Mercado Mayoreo
+Managua;Managua;11201;Reparto Simón Bolívar
+Managua;Managua;11202;Sector Sur 2 Mercado Mayoreo
+Managua;Managua;11203;Planes Del Doral
+Managua;Managua;11204;Praderas Del Doral
+Managua;Managua;11205;Gertrudis Áreas
+Managua;Managua;11206;31 De Diciembre
+Managua;Managua;11207;Sector Norte Laureles Sur
+Managua;Managua;11208;Cortijo De La Sabana
+Managua;Managua;11209;La Curva Sabana Grande
+Managua;Managua;11211;Villa Dignidad
+Managua;Managua;11212;La Maravilla
+Managua;Managua;11212;Sector Norte Sabana Grande
+Managua;Managua;11213;Sector Este Sabana Grande
+Managua;Managua;11214;Sector Norte Comarca San Cristóbal
+Managua;Managua;11215;Sector Noreste Comarca San Cristóbal
+Managua;Managua;12001;San Sebastián
+Managua;Managua;12002;Manchester
+Managua;Managua;12003;Cristo Del Rosario
+Managua;Managua;12004;Julio Buitrago
+Managua;Managua;12005;Santa Ana Sur
+Managua;Managua;12006;Santa Ana Norte
+Managua;Managua;12007;Acahualinca
+Managua;Managua;12008;Alemania Democrática
+Managua;Managua;12009;Barrio Cuba
+Managua;Managua;12011;Rubén Darío
+Managua;Managua;12012;Francisco Morazán
+Managua;Managua;12013;Rafael Ríos
+Managua;Managua;12014;Sector Norte Linda Vista
+Managua;Managua;12015;Sector Occidental Lago De Managua
+Managua;Managua;12016;La Chureca
+Managua;Managua;12017;Virgen De Guadalupe
+Managua;Managua;12018;Sector Norte Las Brisas
+Managua;Managua;12019;Linda Vista Norte
+Managua;Managua;12021;Las Brisas
+Managua;Managua;12022;Carlos Núñez Los Martinez
+Managua;Managua;12023;Valle Dorado
+Managua;Managua;12024;Sector Cerro Los Martinez
+Managua;Managua;12025;Sector Cuesta Del Plomo
+Managua;Managua;12026;Sector Industrial La Refinería
+Managua;Managua;12027;Ulsa
+Managua;Managua;12028;Sector Paseo Las Brisa
+Managua;Managua;12029;Los Arcos
+Managua;Managua;12031;Linda Vista Sur
+Managua;Managua;12032;Loma Verde
+Managua;Managua;12033;El Seminario
+Managua;Managua;12034;El Cortijo
+Managua;Managua;12035;Dignidad 4 De Mayo
+Managua;Managua;12036;Monseñor Lezcano Oeste
+Managua;Managua;12037;Monseñor Lezcano Este
+Managua;Managua;12038;Javier Cuadra
+Managua;Managua;12039;La Reforma
+Managua;Managua;12041;San Jose
+Managua;Managua;12042;San Antonio
+Managua;Managua;12043;San Pedro
+Managua;Managua;12044;El Bóer
+Managua;Managua;12045;Che Guevara
+Managua;Managua;12046;Martha Quezada
+Managua;Managua;12047;William Diaz
+Managua;Managua;12048;El Carmen
+Managua;Managua;12049;Colonia Mantica
+Managua;Managua;12049;Callejón Zelaya
+Managua;Managua;12051;Las Palmas
+Managua;Managua;12052;Manuel Olivares
+Managua;Managua;12053;Reparto España
+Managua;Managua;12054;Miraflores 1
+Managua;Managua;12055;Miraflores 2
+Managua;Managua;12056;Juan Emilio Menocal
+Managua;Managua;12057;Sector El Seminario
+Managua;Managua;12058;Sector Laguna De Asososca
+Managua;Managua;12059;Sector Este Laguna De Asososca
+Managua;Managua;12061;Dinamarca
+Managua;Managua;12062;Batahola Norte
+Managua;Managua;12063;Jardines De Managua
+Managua;Managua;12064;Edgard Lang
+Managua;Managua;12065;Altagracia Norte
+Managua;Managua;12066;Bolonia
+Managua;Managua;12067;San Martin
+Managua;Managua;12068;25 Aniversario
+Managua;Managua;12069;San Ignacio Waslala
+Managua;Managua;12071;Embusa 1 Y 2
+Managua;Managua;12072;Anexo Batahola Sur
+Managua;Managua;12073;Batahola Sur
+Managua;Managua;12074;Llamas Del Bosque
+Managua;Managua;12075;Los Madroños
+Managua;Managua;12076;Daniel Chavarría
+Managua;Managua;12077;Nora Astorga
+Managua;Managua;12078;Santa Ana Nicalit
+Managua;Managua;12079;Altagracia Sur
+Managua;Managua;12081;Bertha Calderon
+Managua;Managua;12082;Recreo Norte
+Managua;Managua;12083;Bosques De Bolonia
+Managua;Managua;12084;Sector Plaza España
+Managua;Managua;12085;Plaza España Costado Sur
+Managua;Managua;12086;Sector El Retiro
+Managua;Managua;12087;Jonathan Gonzalez
+Managua;Managua;12088;Villa Argentina
+Managua;Managua;12089;Golfo Pérsico
+Managua;Managua;12091;Sector Enel Central
+Managua;Managua;12092;Enrique Bermudez 380
+Managua;Managua;12093;Carlos Núñez 380
+Managua;Managua;12094;Sector Oeste Avenida Naciones Unidas
+Managua;Managua;12095;Rene Cisneros
+Managua;Managua;12096;Recreo Sur
+Managua;Managua;12097;Andrés Castro
+Managua;Managua;12098;Centro Cívico
+Managua;Managua;12099;Sector Mercado Israel Lewites
+Managua;Managua;12101;Sector Pali Zumen
+Managua;Managua;12102;Sector Centro Comercial Nejapa
+Managua;Managua;12103;Enrique Schmidt Nejapa
+Managua;Managua;12104;Belmonte
+Managua;Managua;12105;David Tejada
+Managua;Managua;12106;Sector Cerro Tabuya
+Managua;Managua;12107;Sector Parque Las Piedrecitas
+Managua;Managua;12108;Motastepe
+Managua;Managua;12109;Mirna Ugarte
+Managua;Managua;12111;Las Piedrecitas
+Managua;Managua;12112;Héroes Y Mártires De Ayapal
+Managua;Managua;13001;Casimiro Sotelo
+Managua;Managua;13002;Hialeah 1 Y 2
+Managua;Managua;13002;Sector Instituto Salomón De La Selva
+Managua;Managua;13004;Sector Holiday Inn
+Managua;Managua;13005;Sector Ofiplaza
+Managua;Managua;13006;Colonia Del Periodista
+Managua;Managua;13007;La Esperanza
+Managua;Managua;13008;El Pilar
+Managua;Managua;13009;Sector Hospital Bertha Calderón
+Managua;Managua;13011;Héroes Y Mártires Del Bocay
+Managua;Managua;13011;Colonia Independencia
+Managua;Managua;13012;Tierra Prometida
+Managua;Managua;13013;Sector Banco Central
+Managua;Managua;13014;Frawley
+Managua;Managua;13015;Reisel
+Managua;Managua;13016;Sector Laguna De Nejapa
+Managua;Managua;13017;Sector Este Laguna De Nejapa
+Managua;Managua;13018;Sector Noroeste Pista Suburbana
+Managua;Managua;13019;Lomas De San Judas
+Managua;Managua;13021;Herlinda López
+Managua;Managua;13022;Luis Alfonso Velásquez 1
+Managua;Managua;13023;Luis Alfonso Velásquez 2
+Managua;Managua;13024;San Judas
+Managua;Managua;13025;Los Martínez San Judas
+Managua;Managua;13026;Sector Este San Judas
+Managua;Managua;13027;San Pedro San Judas
+Managua;Managua;13028;Vista Hermosa
+Managua;Managua;13029;Martin Luter King
+Managua;Managua;13031;Paseo Del Valle
+Managua;Managua;13032;San Francisco De Asís
+Managua;Managua;13033;Memorial Sandino
+Managua;Managua;13034;Bosques De Nejapa
+Managua;Managua;13035;Sector Suroeste Colonia El Periodista
+Managua;Managua;13036;Altos De Nejapa
+Managua;Managua;13037;Hialeah 3
+Managua;Managua;13038;Hialeah 4
+Managua;Managua;13039;Sector Oeste Lomas De San Ángel
+Managua;Managua;13041;Villa San Ángel
+Managua;Managua;13042;Lomas De San Ángel
+Managua;Managua;13043;Lomas De Monserrat
+Managua;Managua;13044;Catalina
+Managua;Managua;13045;Acrópolis
+Managua;Managua;13046;Sector Noroeste Rotonda Universitaria
+Managua;Managua;13047;Lomas Del Consuelo
+Managua;Managua;13048;Sector Colegio Americano
+Managua;Managua;13049;Sector Suroeste Rotonda Universitaria
+Managua;Managua;13051;Colonia Miguel Bonilla
+Managua;Managua;13052;Sector Mokorón
+Managua;Managua;13053;Sector Norte Comarca Los Ladinos
+Managua;Managua;13054;Sector Sur Memorial Sandino
+Managua;Managua;13055;Marvin Marín
+Managua;Managua;13056;Villa Roma
+Managua;Managua;13057;Omar Torrijos - Loma Linda
+Managua;Managua;13058;Lomas De Buenos Aires
+Managua;Managua;13059;Sector Suroeste Pista Suburbana
+Managua;Managua;13061;San Patricio
+Managua;Managua;13062;Kilocho
+Managua;Managua;13063;Germán Pomares -Ticomo
+Managua;Managua;13064;Arges Sequeira
+Managua;Managua;13065;Sector Noreste Valle De Ticomo
+Managua;Managua;13066;Villa Nueva
+Managua;Managua;13067;Lomas Del Sur
+Managua;Managua;13068;Buena Vista
+Managua;Managua;13069;Bertilda Olegaria
+Managua;Managua;13071;La Zacatera
+Managua;Managua;13072;Los Laureles- Camilo Ortega
+Managua;Managua;13073;Sector Sureste Valle Ticomo
+Managua;Managua;13074;William Galeano
+Managua;Managua;13075;Camilo Ortega
+Managua;Managua;13075;Torres Molina
+Managua;Managua;13076;Anexo Camilo Ortega
+Managua;Managua;13077;Sector Sur Loma Linda
+Managua;Managua;13078;Loma Linda
+Managua;Managua;13078;Sierra Maestra
+Managua;Managua;13079;Anexo Villa Roma
+Managua;Managua;13081;Sector Noreste Comarca Pochocuape
+Managua;Managua;13082;Sector Noroeste Comarca San Isidro Libertador
+Managua;Managua;13083;Sector Norte Comarca San Isidro Libertador
+Managua;Managua;13084;Sector Sur Comarca Los Ladinos
+Managua;Managua;13085;El Progreso
+Managua;Managua;13086;Sector Norte Comarca Las Viudas
+Managua;Managua;13087;Sector Sur Comarca Las Viudas
+Managua;Managua;13088;Sector Sur Comarca San Isidro Libertador
+Managua;Managua;13089;Sector Sur Comarca Pochocuape
+Managua;Managua;13091;Sector Sur Comarca Ticomo
+Managua;Managua;13092;Sector Sur Valle Ticomo
+Managua;Managua;13093;Sector Valle De Ticomo
+Managua;Managua;13094;Sector Sur Laguna Nejapa
+Managua;Managua;13095;Nejapa
+Managua;Managua;13096;Sector Norte Comarca Nejapa
+Managua;Managua;13097;German Pomares- Nejapa
+Managua;Managua;13098;Delagneau
+Managua;Managua;13099;Villa Galicia
+Managua;Managua;13101;Sector Noroeste Altos De Ticomo
+Managua;Managua;13102;Sector Sur Comarca Nejapa
+Managua;Managua;13103;Bosques De Miraflores
+Managua;Managua;13104;Sector Oeste Comarca Nejapa
+Managua;Managua;13105;Sector Norte Cedro Galán
+Managua;Managua;13106;Sector Central Comarca Cedro Galán
+Managua;Managua;13107;Sector Norte Comarca Chiquilistagua
+Managua;Managua;13108;Lomas De Maromo
+Managua;Managua;13109;Sector Central Comarca Chiquilistagua
+Managua;Managua;13111;Vista Esmeralda
+Managua;Managua;13112;Sector Oeste Comarca Chiquilistagua
+Managua;Managua;13113;Casa Blanca
+Managua;Managua;13114;Monte Verde
+Managua;Managua;13115;Planetarium
+Managua;Managua;13116;Sector Este Comarca Chiquilistagua
+Managua;Managua;13117;Sector Suroeste Comarca Cedro Galán
+Managua;Managua;13118;Sector Sur Comarca Cedro Galán
+Managua;Managua;13119;Sector Noroeste Comarca San Jose De La Cañada
+Managua;Managua;13121;Altos De Ticomo
+Managua;Managua;13122;Lomas De Ticomo
+Managua;Managua;13123;Santa Anita
+Managua;Managua;13124;Santa Anita 2
+Managua;Managua;13125;Marcell Pallais
+Managua;Managua;13125;Santa Isabel
+Managua;Managua;13126;Sector Suroeste Santa Anita
+Managua;Managua;13127;San Sebastián Sur
+Managua;Managua;13128;Sector Este Comarca San Jose De La Cañada
+Managua;Managua;13129;Sector Sureste Santa Isabel
+Managua;Managua;13131;El Sosiego
+Managua;Managua;13132;Samarkanda
+Managua;Managua;13133;Villa Jacinto
+Managua;Managua;13134;Sector Oeste Monte Tabor
+Managua;Managua;13135;Serranías
+Managua;Managua;13135;Las Carolinas
+Managua;Managua;13136;Los Cocos
+Managua;Managua;13137;Urbanización Ticomo Sur
+Managua;Managua;13138;Sector Este Comarca Monte Tabor
+Managua;Managua;13139;Las Jinotepes
+Managua;Managua;13141;El Pedernal
+Managua;Managua;13142;El Rosal
+Managua;Managua;13143;Hilario Sánchez Sur
+Managua;Managua;13144;Sector Sureste Comarca San Jose La Cañada
+Managua;Managua;13145;La Veranera
+Managua;Managua;13146;Sector Suroeste Comarca San Jose La Cañada
+Managua;Managua;14001;Edgard Munguía
+Managua;Managua;14002;Reparto San Juan
+Managua;Managua;14003;Reparto Lomas De Guadalupe
+Managua;Managua;14004;Reparto Tiscapa
+Managua;Managua;14005;Sector Metrocentro
+Managua;Managua;14006;Colonial Los Robles 3
+Managua;Managua;14007;Colonial Los Robles 5
+Managua;Managua;14008;Colonial Los Robles 7
+Managua;Managua;14009;Colonial Los Robles 8
+Managua;Managua;14011;Pedro Joaquín Chamorro
+Managua;Managua;14012;La Luz
+Managua;Managua;14012;14 De Junio
+Managua;Managua;14013;Habana 1 - Rotonda De Cristo
+Managua;Managua;14014;Riguero
+Managua;Managua;14015;Aldo Chavarría
+Managua;Managua;14016;Máximo Jeréz
+Managua;Managua;14017;Barrio México
+Managua;Managua;14018;Revolución
+Managua;Managua;14019;Liberia
+Managua;Managua;14021;Carlos Fonseca
+Managua;Managua;14022;Sector Mercado Roberto Huembes
+Managua;Managua;14023;Isaías Gómez
+Managua;Managua;14024;Sector Hospital Manolo Morales
+Managua;Managua;14025;Santos López
+Managua;Managua;14026;Bosques De Altamira
+Managua;Managua;14027;Altamira Este
+Managua;Managua;14028;Colonial Los Robles 6
+Managua;Managua;14029;Colonial Los Robles 2
+Managua;Managua;14031;Planes De Altamira 2
+Managua;Managua;14032;Colonial Los Robles 4
+Managua;Managua;14033;Colonial Los Robles 1
+Managua;Managua;14034;Planes De Altamira 1
+Managua;Managua;14035;Reparto Los Robles
+Managua;Managua;14036;Anexo Reparto San Juan
+Managua;Managua;14037;Lomas De San Juan
+Managua;Managua;14038;Villa Santa Fe
+Managua;Managua;14039;Sector Sur San Juan
+Managua;Managua;14041;Sector Sureste San Juan
+Managua;Managua;14042;Planes De Altamira 3
+Managua;Managua;14043;Sector Este Planes De Altamira 3
+Managua;Managua;14044;Las Flores
+Managua;Managua;14045;Bell Air
+Managua;Managua;14046;Sector Noroeste Paso Desnivel Centroamérica
+Managua;Managua;14047;La Morita
+Managua;Managua;14048;Colonia Centroamérica
+Managua;Managua;14049;Sector Centro Comercial Managua
+Managua;Managua;14051;Pantasma
+Managua;Managua;14052;Grenada
+Managua;Managua;14053;Ariel Darce
+Managua;Managua;14053;La Fuente
+Managua;Managua;14054;Reparto Cuadra
+Managua;Managua;14055;Nicarao Sector Sur
+Managua;Managua;14056;Edmundo Matamoros
+Managua;Managua;14056;Santa Bárbara
+Managua;Managua;14057;14 De Septiembre
+Managua;Managua;14058;Omar Torrijos
+Managua;Managua;14058;Santa Emilia
+Managua;Managua;14059;Jardines De Veracruz
+Managua;Managua;14061;Anexo Jardines De Veracruz
+Managua;Managua;14062;Sector Conchita Palacios
+Managua;Managua;14063;Leningrado
+Managua;Managua;14064;Colonia Primero De Mayo
+Managua;Managua;14065;Anexo Colonia Primero De Mayo
+Managua;Managua;14066;Villa Valencia
+Managua;Managua;14067;Villa Flor Norte
+Managua;Managua;14068;Las Alemanias
+Managua;Managua;14069;Bosque Norte Y Sur
+Managua;Managua;14071;Américas 4
+Managua;Managua;14071;Villa Venezuela
+Managua;Managua;14072;Villa La Sabana
+Managua;Managua;14073;Sector Este Villa Venezuela
+Managua;Managua;14074;Arlen Siu
+Managua;Managua;14075;Mirador La Sabana
+Managua;Managua;14076;Manuel Fernández
+Managua;Managua;14076;Laureles Sur
+Managua;Managua;14077;Arnoldo Alemán
+Managua;Managua;14078;Maria Dolores Alemán
+Managua;Managua;14079;Vittoria
+Managua;Managua;14081;Sector Este Laureles Sur
+Managua;Managua;14082;Altos De La Sabana
+Managua;Managua;14083;Los Cocos Sabana Grande
+Managua;Managua;14084;4 De Noviembre
+Managua;Managua;14085;Sabana Grande
+Managua;Managua;14086;Ríos De Agua Viva
+Managua;Managua;14087;Sector Sur Sabana Grande
+Managua;Managua;14088;Sector Sur Comarca San Cristóbal
+Managua;Managua;14089;Sector Este 2 Comarca Sabana Grande Sur
+Managua;Managua;14091;Villa Sol
+Managua;Managua;14092;Sabanas
+Managua;Managua;14093;Sector Este 1 Comarca Sabana Grande Sur
+Managua;Managua;14094;Sector Oeste Comarca Sabana Grande Sur
+Managua;Managua;14095;Israel Galeano
+Managua;Managua;14096;Nueva Sabana
+Managua;Managua;14097;Comandante Aureleano
+Managua;Managua;14098;Camino Del Río
+Managua;Managua;14099;Los Ingenieros
+Managua;Managua;14099;Sector Sur Lomas De Guadalupe
+Managua;Managua;14099;Los Corteses
+Managua;Managua;14101;Lomas De Guadalupe
+Managua;Managua;14102;Villa Libertad
+Managua;Managua;14103;Anexo Villa Libertad
+Managua;Managua;14104;Sol De Libertad
+Managua;Managua;14105;Nueva Nicaragua
+Managua;Managua;14106;Divino Niño
+Managua;Managua;14107;Ciudad San Sebastián
+Managua;Managua;14108;Sector Sur Anexo Villa Libertad
+Managua;Managua;14109;Milagro De Dios
+Managua;Managua;14111;Anexo Villa Venezuela
+Managua;Managua;14112;Vista Al Xolotlán
+Managua;Managua;14113;Carlos Núñez Américas 4
+Managua;Managua;14114;Villa Canadá
+Managua;Managua;14115;Manolo Morales
+Managua;Managua;14116;25 De Febrero
+Managua;Managua;14117;Villa Flor Sur
+Managua;Managua;14118;Enrique Schmidt Villa Flor
+Managua;Managua;14119;11 De Mayo
+Managua;Managua;14121;13 De Mayo
+Managua;Managua;14122;18 De Agosto
+Managua;Managua;14123;Ciudadela Nicaragua
+Managua;Managua;14124;28 De Mayo
+Managua;Managua;14125;Eddy Mayorga
+Managua;Managua;14126;Eduardo Contreras
+Managua;Managua;14127;30 De Mayo
+Managua;Managua;14127;Sector Milagro De Dios
+Managua;Managua;14128;Alfredo Nobel
+Managua;Managua;14128;Che Guevara
+Managua;Managua;14129;Salomón Moreno
+Managua;Managua;14131;Enrique Lorente
+Managua;Managua;14131;Reparto Shick 3
+Managua;Managua;14132;Bariloche
+Managua;Managua;14132;Blanca Segovia
+Managua;Managua;14133;Blanca Arauz
+Managua;Managua;14133;Amanda Aguilar
+Managua;Managua;14134;Sócrates Sandino
+Managua;Managua;14135;Reparto Shick 4
+Managua;Managua;14135;Enrique Gutiérrez
+Managua;Managua;14136;Ángel Valentín Barrios
+Managua;Managua;14136;Reparto Shick 2
+Managua;Managua;14137;Rene Polanco
+Managua;Managua;14138;Germán Pomares
+Managua;Managua;14139;Proyecto Piloto
+Managua;Managua;14141;Pablo Úbeda
+Managua;Managua;14142;Macaraly
+Managua;Managua;14142;Reparto Shick 1
+Managua;Managua;14143;Francisco Salazar
+Managua;Managua;14144;Finlandia Rubén Darío Las Colinas
+Managua;Managua;14145;Augusto Cesar Sandino
+Managua;Managua;14146;12 De Octubre
+Managua;Managua;14147;San Lucas
+Managua;Managua;14148;Anexo 18 De Mayo
+Managua;Managua;14149;18 De Mayo
+Managua;Managua;14151;Walter Ferreti
+Managua;Managua;14152;Isabel Urbina
+Managua;Managua;14152;Adolfo Reyes
+Managua;Managua;14153;Sector Hogar Zacarías Guerra
+Managua;Managua;14154;Lomas Del Valle
+Managua;Managua;14155;Piquín Guerrero
+Managua;Managua;14155;Las Lomitas Centroamérica
+Managua;Managua;14156;22 De Enero
+Managua;Managua;14157;Sector Camino De Oriente
+Managua;Managua;14158;Sector Noroeste Rotonda Jean Paul Genie
+Managua;Managua;14159;Planes De Puntaldía
+Managua;Managua;14161;Villas Italianas
+Managua;Managua;14162;Mirasol
+Managua;Managua;14163;Madroños Villa Fontana
+Managua;Managua;14164;Inmaculada Villa Fontana
+Managua;Managua;14165;Villa Fontana Este
+Managua;Managua;14166;Sector Suroeste Camino De Oriente
+Managua;Managua;14167;Sector Radio Nicaragua
+Managua;Managua;14168;Sector La Salle
+Managua;Managua;14169;Condominio Roma
+Managua;Managua;14171;Casa Fontana
+Managua;Managua;14172;Sector Unan Managua
+Managua;Managua;14173;Villa Fontana Norte
+Managua;Managua;14174;Villa Fontana Sur
+Managua;Managua;14175;Las Veraneras
+Managua;Managua;14176;Sector Comarca Jocote Dulce
+Managua;Managua;14177;Sector Colegio Centroamérica
+Managua;Managua;14178;Bosques Del Recreo
+Managua;Managua;14179;Sector Sur Club Terraza
+Managua;Managua;14181;Bosques Del Terraza
+Managua;Managua;14182;Las Cumbres
+Managua;Managua;14183;Mirador Las Cumbres
+Managua;Managua;14184;Altos De Las Cumbres
+Managua;Managua;14185;Portal Del Carmen
+Managua;Managua;14186;La Rioja
+Managua;Managua;14187;Sector Sur Pista Jean Paul Genie
+Managua;Managua;14188;Santa Mónica Cruz Del Paraíso
+Managua;Managua;14189;Sector Norte Cruz Del Paraíso
+Managua;Managua;14191;Sector Sur Rotonda Jean Paul Genie
+Managua;Managua;14192;Magnolia
+Managua;Managua;14193;Sector Noroeste Las Colinas
+Managua;Managua;14194;Sector Norte Las Colinas
+Managua;Managua;14195;Goenz
+Managua;Managua;14196;Sector Hotel Las Colinas
+Managua;Managua;14197;Paseo Las Colinas
+Managua;Managua;14198;Cumbres De Las Colinas
+Managua;Managua;14199;Las Colinas
+Managua;Managua;14201;Cedros De Las Colinas
+Managua;Managua;14202;Lomas De Las Colinas
+Managua;Managua;14203;Sector Noreste Las Colinas
+Managua;Managua;14204;Naciones Unidas
+Managua;Managua;14205;Villa Cuba Libre
+Managua;Managua;14206;Sector Oeste Colinas De Santa Cruz
+Managua;Managua;14207;Flor De Las Colinas
+Managua;Managua;14208;Villa Loreto
+Managua;Managua;14209;Colinas De Santa Cruz
+Managua;Managua;14211;Sector Norte Colinas De Santa Cruz
+Managua;Managua;14212;Sector Norte Las Jaguitas
+Managua;Managua;14213;Sector Oeste Comarca Las Enramadas
+Managua;Managua;14214;Cuatro Esquinas De Las Enramadas
+Managua;Managua;14215;Sector Este Comarca Las Enramadas
+Managua;Managua;14216;Sector Sureste Comarca Las Enramadas
+Managua;Managua;14217;Mayales
+Managua;Managua;14218;Sector Sur Comarca Las Enramadas
+Managua;Managua;14219;Sector Norte Comarca Esquipulas
+Managua;Managua;14221;Sector Este Las Cuarezma
+Managua;Managua;14222;Sector Sur Comarca Las Jaguitas
+Managua;Managua;14223;Sector Este Las Colinas
+Managua;Managua;14224;Villa Florencia
+Managua;Managua;14225;Colinas Sur
+Managua;Managua;14226;Frascati
+Managua;Managua;14227;Terracota 1 Y 2
+Managua;Managua;14228;Estefanía
+Managua;Managua;14229;Acoma
+Managua;Managua;14231;Las Cuarezmas
+Managua;Managua;14232;San Pablo
+Managua;Managua;14233;Jardines De Las Colinas
+Managua;Managua;14234;El Boquete Sector Norte Santo Domingo
+Managua;Managua;14235;Mirador Sur Santo Domingo
+Managua;Managua;14236;Mirador Norte Santo Domingo
+Managua;Managua;14237;Lomas De Notredame
+Managua;Managua;14238;Sector Norte El Mirador
+Managua;Managua;14239;Castellana
+Managua;Managua;14241;Alamedas Km 8 Carretera Masaya
+Managua;Managua;14242;Las Lomas Camino Viejo
+Managua;Managua;14243;Villa Bellini
+Managua;Managua;14244;Sector Sur Cruz Del Paraíso
+Managua;Managua;14245;Los Membreños
+Managua;Managua;14246;Sector Norte San Isidro De La Cruz Verde
+Managua;Managua;14247;Combatiente Desconocido
+Managua;Managua;14248;Urbanización Gloria
+Managua;Managua;14249;Sector Norte Jocote Dulce
+Managua;Managua;14251;Vincent Poujardeu
+Managua;Managua;14252;Miralagos
+Managua;Managua;14253;Sector Sur Jocote Dulce
+Managua;Managua;14254;Sector Oeste San Isidro De La Cruz Verde
+Managua;Managua;14255;Sector San Isidro De La Cruz Verde
+Managua;Managua;14256;Los Andes
+Managua;Managua;14257;Jacarandas
+Managua;Managua;14258;La Quinta
+Managua;Managua;14259;Altos De Santo Domingo
+Managua;Managua;14261;Anexo Las Sierritas Santo Domingo
+Managua;Managua;14262;Santa Mónica
+Managua;Managua;14263;Lomas De Santo Domingo
+Managua;Managua;14264;Sierritas De Santo Domingo
+Managua;Managua;14265;Sector Norte Sierritas De Santo Domingo
+Managua;Managua;14266;Urbanización Madrid
+Managua;Managua;14267;Acrópolis
+Managua;Managua;14268;Pedregal
+Managua;Managua;14269;Los Palmares
+Managua;Managua;14271;Germán Silva
+Managua;Managua;14272;16 De Marzo
+Managua;Managua;14273;Barrio Nuevo
+Managua;Managua;14274;Bosques De Santa María
+Managua;Managua;14275;Santa María De Los Lagos
+Managua;Managua;14276;Villas Gaudi
+Managua;Managua;14277;Sector Cuatro Esquinas De Esquipulas
+Managua;Managua;14278;Michelangelo
+Managua;Managua;14279;Entreverde
+Managua;Managua;14281;Altos De Las Colinas
+Managua;Managua;14282;Sector Oeste Comarca Esquipulas
+Managua;Managua;14283;Sector Esquipulas
+Managua;Managua;14284;Ermitas De Esquipulas
+Managua;Managua;14285;Vistas De Esquipulas
+Managua;Managua;14286;Sector Noreste Los Vanegas
+Managua;Managua;14287;El Cenicero
+Managua;Managua;14288;Los Vanegas
+Managua;Managua;14289;Sector Sur Esquipulas
+Managua;Managua;14291;Villanova
+Managua;Managua;14292;Berlín
+Managua;Managua;14293;Las Praderas
+Managua;Managua;14294;Paseo Del Prado
+Managua;Managua;14295;Villa Del Rosario
+Managua;Managua;14296;Alamedas Santo Domingo
+Managua;Managua;14297;Palma Real
+Managua;Managua;14298;Sector Norte Estancia De Santo Domingo
+Managua;Managua;14299;Estancia Santo Domingo
+Managua;Managua;14301;Sector Sur Altos De Santo Domingo
+Managua;Managua;14302;Altamonte
+Managua;Managua;14303;Palermo
+Managua;Managua;14304;Bosques Del Prado
+Managua;Managua;14305;Sector Sur Sierritas De Santo Domingo
+Managua;Managua;14306;Hadas Villas
+Managua;Managua;14307;Villa De Andalucía
+Managua;Managua;14308;La Arboleda Santo Domingo
+Managua;Managua;14309;Bosques De Santo Domingo
+Managua;Managua;14311;Quintas Del Valle
+Managua;Managua;14312;El Rodeo Santo Domingo
+Managua;Managua;14313;Haras De La Hoyada
+Managua;Managua;14314;Condesa 1 Y 2
+Managua;Managua;14315;Valle Blanco
+Managua;Managua;14316;Valle Azul
+Managua;Managua;14317;El Encanto 1 Y 2
+Managua;Managua;14318;Sector Oeste Comarca Santo Domingo
+Managua;Managua;14319;Bosques De San Isidro
+Managua;Managua;14321;Sector Sur San Isidro De La Cruz Verde
+Managua;Managua;14322;Monte Carlos
+Managua;Managua;14323;La Esperanza Jocote Dulce
+Managua;Managua;14324;Los Angeles Jocote Dulce
+Managua;Managua;14325;Sector Sur Jocote Dulce
+Managua;Managua;14326;Portal Del Bosque
+Managua;Managua;14327;Intermezzo Del Bosque
+Managua;Managua;14328;Balcones De Santo Domingo 2
+Managua;Managua;14329;Balcones De Santo Domingo 1
+Managua;Managua;14331;Sector Sureste San Isidro De La Cruz Verde
+Managua;Managua;14332;Jardines De Santo Domingo 2
+Managua;Managua;14333;Jardines De Santo Domingo 1
+Managua;Managua;14334;San Antonio Sur
+Managua;Managua;14335;Puertas Del Sol
+Managua;Managua;14336;Sacuanjoche
+Managua;Managua;14337;Valle Del Prado
+Managua;Managua;14338;Campo Bello
+Managua;Managua;14339;Las Palmeras
+Managua;Managua;14341;Los Geranios
+Managua;Managua;14342;Sector Norte Comarca San Antonio Sur
+Managua;Managua;14343;Sector Sur Comarca San Antonio Sur
+Managua;Managua;14344;Sector Este Comarca Candelaria Sur
+Managua;Managua;14345;Sector Oeste Comarca Candelaria Sur
+Managua;Tipitapa;15100;Master code
+Managua;San Francisco Libre;15300;Master code
+Managua;Mateare;15500;Master code
+Managua;Ciudad Sandino;15700;Master code
+Managua;El Crucero;16100;Master code
+Managua;Ticuantepe;16300;Master code
+Managua;Villa El Carmen;16500;Master code
+Managua;San Rafael Del Sur;16700;Master code
+León;León;21000;Master code
+León;La Paz Centro;22100;Master code
+León;Nagarote;22200;Master code
+León;Quezalguaque;22300;Master code
+León;Telica;22400;Master code
+León;Larreynaga;22500;Master code
+León;El Jicaral;22600;Master code
+León;Santa Rosa del Peñón;22700;Master code
+León;El Sauce;22800;Master code
+León;Achuapa;22900;Master code
+Chinandega;Chinandega;25000;Master code
+Chinandega;Chichigalpa;26100;Master code
+Chinandega;El Viejo;26200;Master code
+Chinandega;El Realejo;26300;Master code
+Chinandega;Corinto;26400;Master code
+Chinandega;Posoltega;26500;Master code
+Chinandega;Puerto Morazán;26600;Master code
+Chinandega;Villanueva;26700;Master code
+Chinandega;Somotillo;26800;Master code
+Chinandega;San Francisco del Norte;26900;Master code
+Chinandega;Santo Tómas del Norte;27100;Master code
+Chinandega;Cinco Pinos;27200;Master code
+Chinandega;San Pedro del Norte;27300;Master code
+Estelí;Estelí;31000;Master code
+Estelí;Condega;32100;Master code
+Estelí;Pueblo Nuevo;32200;Master code
+Estelí;San Juan de Limay;32300;Master code
+Estelí;San Nicolás;32400;Master code
+Estelí;La Trinidad;32500;Master code
+Madriz;Somoto;34000;Master code
+Madriz;Yalaguina;35100;Master code
+Madriz;Palacaguina;35200;Master code
+Madriz;Totogalpa;35300;Master code
+Madriz;San Lucas;35400;Master code
+Madriz;Las Sabanas;35500;Master code
+Madriz;San José de Cusmapa;35600;Master code
+Madriz;Telpaneca;35700;Master code
+Madriz;San Juan de Rio Coco;35800;Master code
+Nueva Segovia;Ocotal;37000;Master code
+Nueva Segovia;Mozonte;38100;Master code
+Nueva Segovia;Dipilto;38200;Master code
+Nueva Segovia;Macuelizo;38300;Master code
+Nueva Segovia;Ciudad Antigua;38400;Master code
+Nueva Segovia;San Fernando;38500;Master code
+Nueva Segovia;Santa María;38600;Master code
+Nueva Segovia;Quilalí;38700;Master code
+Nueva Segovia;El Jícaro;38800;Master code
+Nueva Segovia;Murra;38900;Master code
+Nueva Segovia;Wiwilí de Nueva Segovia;39100;Master code
+Nueva Segovia;Jalapa;39200;Master code
+Masaya;Masaya;41000;Master code
+Masaya;Tisma;42100;Master code
+Masaya;Nindirí;42200;Master code
+Masaya;La Concepción;42300;Master code
+Masaya;Nandasmo;42400;Master code
+Masaya;Catarina;42500;Master code
+Masaya;Masatepe;42600;Master code
+Masaya;Niquinohomo;42700;Master code
+Masaya;San Juan de Oriente;42800;Master code
+Granada;Granada;43000;Master code
+Granada;Diriomo;44100;Master code
+Granada;Diriá;44200;Master code
+Granada;Nandaime;44300;Master code
+Carazo;Jinotepe;45000;Master code
+Carazo;Dolores;46100;Master code
+Carazo;El Rosario;46200;Master code
+Carazo;Diriamba;46300;Master code
+Carazo;San Marcos;46400;Master code
+Carazo;La Paz de Carazo;46500;Master code
+Carazo;Santa Teresa;46600;Master code
+Carazo;La Conquista;46700;Master code
+Rivas;Rivas;47000;Master code
+Rivas;San Jorge;48100;Master code
+Rivas;Buenos Aires;48200;Master code
+Rivas;Potosí;48300;Master code
+Rivas;Belén;48400;Master code
+Rivas;Tola;48500;Master code
+Rivas;San Juan del Sur;48600;Master code
+Rivas;Moyogalpa;48700;Master code
+Rivas;Altagracia;48800;Master code
+Rivas;Cárdenas;48900;Master code
+Boaco;Boaco;51000;Master code
+Boaco;Camoapa;52100;Master code
+Boaco;Santa Lucia;52200;Master code
+Boaco;Teustepe;52300;Master code
+Boaco;San Lorenzo;52400;Master code
+Boaco;San José de los Remates;52500;Master code
+Chontales;Juigalpa;55000;Master code
+Chontales;Acoyapa;56100;Master code
+Chontales;Santo Tomás;56200;Master code
+Chontales;La Libertad;56300;Master code
+Chontales;San Francisco de Cuapa;56400;Master code
+Chontales;Comalapa;56500;Master code
+Chontales;Villa Sandino;56600;Master code
+Chontales;San Pedro de Lóvago;56700;Master code
+Chontales;Santo Domingo;56800;Master code
+Chontales;El Coral;56900;Master code
+Matagalpa;Matagalpa;61000;Master code
+Matagalpa;San Ramón;62100;Master code
+Matagalpa;Sébaco;62200;Master code
+Matagalpa;Terrabona;62300;Master code
+Matagalpa;San Dionisio;62400;Master code
+Matagalpa;Esquipulas;62500;Master code
+Matagalpa;Muy Muy;62600;Master code
+Matagalpa;El Tuma La Dalia;62700;Master code
+Matagalpa;Ciudad Darío;62800;Master code
+Matagalpa;San Isidro;62900;Master code
+Matagalpa;Matiguas;63100;Master code
+Matagalpa;Río Blanco;63200;Master code
+Matagalpa;Rancho Grande;63300;Master code
+Jinotega;Jinotega;65000;Master code
+Jinotega;San Rafael del Norte;66100;Master code
+Jinotega;San Sebastián de Yalí;66200;Master code
+Jinotega;La Concordia;66300;Master code
+Jinotega;Santa María de Pantasma;66400;Master code
+Jinotega;El Cuá;66500;Master code
+Jinotega;San José de Bocay;66600;Master code
+Jinotega;Wiwilí de Jinotega;66700;Master code
+RAAN;Puerto Cabezas;71000;Master code
+RAAN;Waspam;72100;Master code
+RAAN;Rosita;72200;Master code
+RAAN;Bonanza;72300;Master code
+RAAN;Siuna;72400;Master code
+RAAN;Prinzapolka;72500;Master code
+RAAN;Mulukukú;72600;Master code
+RAAN;Waslala;72700;Master code
+RAAS;Bluefields;81000;Master code
+RAAS;Corn Island;82100;Master code
+RAAS;Kukrahill;82200;Master code
+RAAS;El Rama;82300;Master code
+RAAS;Muelle de los Bueyes;82400;Master code
+RAAS;Nueva Guinea;82500;Master code
+RAAS;Laguna de Perlas;82600;Master code
+RAAS;El Tortuguero;82700;Master code
+RAAS;El Ayote;82800;Master code
+RAAS;Desembocadura de Cruz Río Grande;82900;Master code
+RAAS;Cruz del Río Grande;83100;Master code
+RAAS;Paiwas;83200;Master code
+Rio San Juan;San Carlos;91000;Master code
+Rio San Juan;San Miguelito;92100;Master code
+Rio San Juan;El Castillo;92200;Master code
+Rio San Juan;El Almendro;92300;Master code
+Rio San Juan;Morrito;92400;Master code
+Rio San Juan;San Juan de Nicaragua;92500;Master code
