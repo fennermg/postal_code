@@ -1,0 +1,33 @@
+<h1>Search for a Zip Code</h1>
+
+<%= form_with url: "/code", method: :get do |form| %>
+  <%= form.label :query, "Search for:" %>
+  <%= form.text_field :query %>
+  <%= form.submit "Search" %>
+<% end %>
+
+  <%if @search%>
+    <h3>Not found</h3>
+  <%end%>
+
+<%if !@code.nil?%>
+
+  <table>
+    <tr>
+      <th>Department</th>
+      <th>Municipality</th>
+      <th>Zip Code</th>
+      <th>Neighbourhood</th>
+    </tr>
+  
+    <tr>
+      <td><%=@code.department%></td>
+      <td><%=@code.municipality%></td>
+      <td><%=@code.postal_code%></td>
+      <td><%=@code.neighbourhood%></td>
+    </tr>
+
+  </table>
+
+<%end%>
+
